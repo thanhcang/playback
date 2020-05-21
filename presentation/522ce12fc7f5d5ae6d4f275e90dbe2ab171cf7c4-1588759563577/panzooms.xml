@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<recording id="panzoom_events">
+  <event timestamp="0.0">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="14.7">
+    <viewBox>170.54006 163.2448 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="14.9">
+    <viewBox>284.23343 272.07467 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="15.1">
+    <viewBox>365.44298 349.81029 914.28571 514.28571</viewBox>
+  </event>
+  <event timestamp="15.2">
+    <viewBox>423.77 404.01411 800.0 450.0</viewBox>
+  </event>
+  <event timestamp="15.4">
+    <viewBox>580.80425 549.94747 492.30769 276.92308</viewBox>
+  </event>
+  <event timestamp="15.6">
+    <viewBox>559.86635 530.4897 533.33333 300.0</viewBox>
+  </event>
+  <event timestamp="15.8">
+    <viewBox>505.42781 479.89946 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="15.9">
+    <viewBox>469.13544 446.17264 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="16.1">
+    <viewBox>287.67364 277.53853 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="16.2">
+    <viewBox>178.79655 176.35806 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="16.4">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="21.5">
+    <viewBox>146.74192 48.0788 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="21.7">
+    <viewBox>244.56987 80.13133 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="22.1">
+    <viewBox>244.56987 78.71477 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="22.3">
+    <viewBox>131.24539 -0.0 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="23.2">
+    <viewBox>132.66195 -0.0 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="23.4">
+    <viewBox>-0.0 28.33112 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="24.0">
+    <viewBox>-0.0 32.58079 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="24.2">
+    <viewBox>-0.0 45.32979 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="24.8">
+    <viewBox>4.24967 45.32979 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="25.0">
+    <viewBox>474.54626 48.1629 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="25.3">
+    <viewBox>502.87738 43.91324 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="25.7">
+    <viewBox>501.46082 43.91324 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="25.9">
+    <viewBox>533.33333 -0.0 1066.66667 600.0</viewBox>
+  </event>
+</recording>

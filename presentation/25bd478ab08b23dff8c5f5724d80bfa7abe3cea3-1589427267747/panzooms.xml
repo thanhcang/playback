@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<recording id="panzoom_events">
+  <event timestamp="0.0">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="2.2">
+    <viewBox>190.08854 117.77336 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="2.4">
+    <viewBox>407.33259 252.37148 914.28571 514.28571</viewBox>
+  </event>
+  <event timestamp="2.8">
+    <viewBox>316.81424 196.28893 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="3.0">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="3.5">
+    <viewBox>190.08854 117.77336 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="3.7">
+    <viewBox>475.22135 294.43339 800.0 450.0</viewBox>
+  </event>
+  <event timestamp="4.5">
+    <viewBox>528.02373 327.14821 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="4.7">
+    <viewBox>570.26563 353.32007 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="5.4">
+    <viewBox>528.02373 327.14821 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="5.6">
+    <viewBox>190.08854 117.77336 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="6.1">
+    <viewBox>-0.0 0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="7.4">
+    <viewBox>189.23861 117.77336 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="7.6">
+    <viewBox>525.6628 327.14821 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="7.8">
+    <viewBox>567.71582 353.32007 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="8.0">
+    <viewBox>602.12284 374.73341 581.81818 327.27273</viewBox>
+  </event>
+  <event timestamp="8.2">
+    <viewBox>630.79536 392.57785 533.33333 300.0</viewBox>
+  </event>
+  <event timestamp="8.4">
+    <viewBox>709.64478 441.65009 400.0 225.0</viewBox>
+  </event>
+  <event timestamp="8.7">
+    <viewBox>693.87489 431.83564 426.66667 240.0</viewBox>
+  </event>
+  <event timestamp="8.9">
+    <viewBox>602.12284 374.73341 581.81818 327.27273</viewBox>
+  </event>
+  <event timestamp="9.0">
+    <viewBox>567.71582 353.32007 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="9.2">
+    <viewBox>405.5113 252.37148 914.28571 514.28571</viewBox>
+  </event>
+  <event timestamp="9.3">
+    <viewBox>315.39768 196.28893 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="9.5">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="10.8">
+    <viewBox>189.23861 118.19831 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="11.0">
+    <viewBox>473.09652 295.49578 800.0 450.0</viewBox>
+  </event>
+  <event timestamp="11.2">
+    <viewBox>525.6628 328.32865 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="11.3">
+    <viewBox>567.71582 354.59494 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="11.5">
+    <viewBox>655.05672 409.14801 492.30769 276.92308</viewBox>
+  </event>
+  <event timestamp="13.1">
+    <viewBox>675.85217 422.13683 457.14286 257.14286</viewBox>
+  </event>
+  <event timestamp="13.3">
+    <viewBox>709.64478 443.24368 400.0 225.0</viewBox>
+  </event>
+  <event timestamp="20.9">
+    <viewBox>693.87489 433.39382 426.66667 240.0</viewBox>
+  </event>
+  <event timestamp="21.1">
+    <viewBox>630.79536 393.99438 533.33333 300.0</viewBox>
+  </event>
+  <event timestamp="21.4">
+    <viewBox>602.12284 376.08554 581.81818 327.27273</viewBox>
+  </event>
+  <event timestamp="21.6">
+    <viewBox>473.09652 295.49578 800.0 450.0</viewBox>
+  </event>
+</recording>

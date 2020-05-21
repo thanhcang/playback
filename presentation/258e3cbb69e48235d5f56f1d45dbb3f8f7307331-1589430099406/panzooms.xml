@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<recording id="panzoom_events">
+  <event timestamp="0.0">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="12.2">
+    <viewBox>190.93848 93.97521 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="12.4">
+    <viewBox>318.23079 156.62535 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="12.6">
+    <viewBox>409.15388 201.37545 914.28571 514.28571</viewBox>
+  </event>
+  <event timestamp="12.7">
+    <viewBox>318.23079 156.62535 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="12.9">
+    <viewBox>-0.0 -0.0 1600.0 900.0</viewBox>
+  </event>
+  <event timestamp="13.4">
+    <viewBox>190.93848 94.40018 1280.0 720.0</viewBox>
+  </event>
+  <event timestamp="13.6">
+    <viewBox>477.34619 236.00044 800.0 450.0</viewBox>
+  </event>
+  <event timestamp="13.8">
+    <viewBox>530.38466 262.22271 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="14.0">
+    <viewBox>607.53152 300.3642 581.81818 327.27273</viewBox>
+  </event>
+  <event timestamp="14.2">
+    <viewBox>636.46159 314.66726 533.33333 300.0</viewBox>
+  </event>
+  <event timestamp="14.4">
+    <viewBox>660.94088 326.76984 492.30769 276.92308</viewBox>
+  </event>
+  <event timestamp="14.6">
+    <viewBox>636.46159 314.66726 533.33333 300.0</viewBox>
+  </event>
+  <event timestamp="14.8">
+    <viewBox>572.81543 283.20053 640.0 360.0</viewBox>
+  </event>
+  <event timestamp="14.9">
+    <viewBox>530.38466 262.22271 711.11111 400.0</viewBox>
+  </event>
+  <event timestamp="15.1">
+    <viewBox>318.23079 157.33363 1066.66667 600.0</viewBox>
+  </event>
+  <event timestamp="15.3">
+    <viewBox>-0.0 0.0 1600.0 900.0</viewBox>
+  </event>
+</recording>

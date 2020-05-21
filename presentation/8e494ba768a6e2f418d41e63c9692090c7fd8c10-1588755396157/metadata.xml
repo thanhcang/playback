@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<recording>
+  <id>8e494ba768a6e2f418d41e63c9692090c7fd8c10-1588755396157</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1588755396157</start_time>
+  <end_time>1588755437377</end_time>
+  <participants>1</participants>
+  <meeting id="8e494ba768a6e2f418d41e63c9692090c7fd8c10-1588755396157" externalId="26911_1ea8f777-dade-6c86-84a8-42010a8c000a" name="KE0000300_0605_A1 - LC2 (2)" breakout="false"/>
+  <meta>
+    <isBreakout>false</isBreakout>
+    <meetingId>26911_1ea8f777-dade-6c86-84a8-42010a8c000a</meetingId>
+    <meetingName>KE0000300_0605_A1 - LC2 (2)</meetingName>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://bbb.kynaforkids.com/playback/presentation/2.0/playback.html?meetingId=8e494ba768a6e2f418d41e63c9692090c7fd8c10-1588755396157</link>
+    <processing_time>2521</processing_time>
+    <duration>7198</duration>
+    <size>55077</size>
+  </playback>
+  <raw_size>77427</raw_size>
+</recording>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<recording>
+  <id>258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1589430099406</start_time>
+  <end_time>1589430150412</end_time>
+  <participants>1</participants>
+  <meeting id="258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406" externalId="39911_1ea959a6-8256-6a1e-aa9a-42010a8c000a" name="KE0000324_t_Speak A - Unit 5 (2)" breakout="false"/>
+  <meta>
+    <isBreakout>false</isBreakout>
+    <meetingId>39911_1ea959a6-8256-6a1e-aa9a-42010a8c000a</meetingId>
+    <meetingName>KE0000324_t_Speak A - Unit 5 (2)</meetingName>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://bbb.kynaforkids.com/playback/presentation/2.0/playback.html?meetingId=258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406</link>
+    <processing_time>6810</processing_time>
+    <duration>19446</duration>
+    <extensions>
+      <preview>
+        <images>
+          <image width="176" height="136" alt="Welcome To BigBlueButton">https://bbb.kynaforkids.com/presentation/258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406/presentation/d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1589430099472/thumbnails/thumb-1.png</image>
+          <image width="176" height="136" alt="This slide left blank for whiteboard">https://bbb.kynaforkids.com/presentation/258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406/presentation/d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1589430099472/thumbnails/thumb-2.png</image>
+          <image width="176" height="136" alt="This slide left blank for whiteboard">https://bbb.kynaforkids.com/presentation/258e3cbb69e48235d5f56f1d45dbb3f8f7307331-1589430099406/presentation/d2d9a672040fbde2a47a10bf6c37b6a4b5ae187f-1589430099472/thumbnails/thumb-3.png</image>
+        </images>
+      </preview>
+    </extensions>
+    <size>135777</size>
+  </playback>
+  <raw_size>916330</raw_size>
+</recording>

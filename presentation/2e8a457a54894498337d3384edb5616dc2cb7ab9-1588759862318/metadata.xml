@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<recording>
+  <id>2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1588759862318</start_time>
+  <end_time>1588759963725</end_time>
+  <participants>2</participants>
+  <meeting id="2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318" externalId="26914_1ea8f81e-3b01-670c-9854-42010a8c000a" name="KE0000300_0605_A3 - LC2 (1)" breakout="false"/>
+  <meta>
+    <isBreakout>false</isBreakout>
+    <meetingId>26914_1ea8f81e-3b01-670c-9854-42010a8c000a</meetingId>
+    <meetingName>KE0000300_0605_A3 - LC2 (1)</meetingName>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://bbb.kynaforkids.com/playback/presentation/2.0/playback.html?meetingId=2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318</link>
+    <processing_time>15317</processing_time>
+    <duration>15089</duration>
+    <extensions>
+      <preview>
+        <images>
+          <image width="176" height="136" alt="THE SEA">https://bbb.kynaforkids.com/presentation/2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318/presentation/bc7402658fbf417e26e341cf3b6f32cb41e80109-1588759925544/thumbnails/thumb-1.png</image>
+          <image width="176" height="136" alt="Let&#x2019;s review">https://bbb.kynaforkids.com/presentation/2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318/presentation/bc7402658fbf417e26e341cf3b6f32cb41e80109-1588759925544/thumbnails/thumb-2.png</image>
+          <image width="176" height="136" alt="Let's travel on water!">https://bbb.kynaforkids.com/presentation/2e8a457a54894498337d3384edb5616dc2cb7ab9-1588759862318/presentation/bc7402658fbf417e26e341cf3b6f32cb41e80109-1588759925544/thumbnails/thumb-3.png</image>
+        </images>
+      </preview>
+    </extensions>
+    <size>1152538</size>
+  </playback>
+  <raw_size>5597432</raw_size>
+</recording>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<recording>
+  <id>7bba5e05b2cf693c9f703ae71e0865ab692ec06a-1588755171897</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1588755171897</start_time>
+  <end_time>1588755225106</end_time>
+  <participants>1</participants>
+  <meeting id="7bba5e05b2cf693c9f703ae71e0865ab692ec06a-1588755171897" externalId="26912_1ea8f76f-8019-6358-ac2a-42010a8c000a" name="KE0000300_0605_A1 - LC2 (2)" breakout="false"/>
+  <meta>
+    <isBreakout>false</isBreakout>
+    <meetingId>26912_1ea8f76f-8019-6358-ac2a-42010a8c000a</meetingId>
+    <meetingName>KE0000300_0605_A1 - LC2 (2)</meetingName>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://bbb.kynaforkids.com/playback/presentation/2.0/playback.html?meetingId=7bba5e05b2cf693c9f703ae71e0865ab692ec06a-1588755171897</link>
+    <processing_time>7055</processing_time>
+    <duration>19512</duration>
+    <extensions>
+      <preview>
+        <images>
+          <image width="176" height="136" alt="invoice_code collection_payme... date user_name email phone_number package_name teacher_name payment_dashboa... different_n...">https://bbb.kynaforkids.com/presentation/7bba5e05b2cf693c9f703ae71e0865ab692ec06a-1588755171897/presentation/668e451a290c8c334401de4a3751a44506abf14f-1588755210961/thumbnails/thumb-1.png</image>
+        </images>
+      </preview>
+    </extensions>
+    <size>218811</size>
+  </playback>
+  <raw_size>999599</raw_size>
+</recording>

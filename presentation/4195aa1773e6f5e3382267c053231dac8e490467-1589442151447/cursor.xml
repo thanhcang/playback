@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<recording id="cursor_events">
+  <event timestamp="0.0">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="0.5">
+    <cursor>0.13188 0.61416</cursor>
+  </event>
+  <event timestamp="0.6">
+    <cursor>0.44927 0.31196</cursor>
+  </event>
+  <event timestamp="0.7">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="5.1">
+    <cursor>0.88885 0.14906</cursor>
+  </event>
+  <event timestamp="6.5">
+    <cursor>0.88885 0.15614</cursor>
+  </event>
+  <event timestamp="6.6">
+    <cursor>0.76534 0.26474</cursor>
+  </event>
+  <event timestamp="6.7">
+    <cursor>0.70558 0.2978</cursor>
+  </event>
+  <event timestamp="6.8">
+    <cursor>0.66308 0.30724</cursor>
+  </event>
+  <event timestamp="6.9">
+    <cursor>0.61129 0.29307</cursor>
+  </event>
+  <event timestamp="7.0">
+    <cursor>0.53825 0.26474</cursor>
+  </event>
+  <event timestamp="7.1">
+    <cursor>0.30717 0.19392</cursor>
+  </event>
+  <event timestamp="7.2">
+    <cursor>0.06149 0.26947</cursor>
+  </event>
+  <event timestamp="7.3">
+    <cursor>0.25405 0.78651</cursor>
+  </event>
+  <event timestamp="7.4">
+    <cursor>0.75073 0.54333</cursor>
+  </event>
+  <event timestamp="7.5">
+    <cursor>0.90346 0.16322</cursor>
+  </event>
+  <event timestamp="7.6">
+    <cursor>0.42138 0.4489</cursor>
+  </event>
+  <event timestamp="7.7">
+    <cursor>0.47185 0.72276</cursor>
+  </event>
+  <event timestamp="7.8">
+    <cursor>0.58473 0.60944</cursor>
+  </event>
+  <event timestamp="7.9">
+    <cursor>0.51435 0.55514</cursor>
+  </event>
+  <event timestamp="8.0">
+    <cursor>0.37623 0.59055</cursor>
+  </event>
+  <event timestamp="8.1">
+    <cursor>0.4267 0.78887</cursor>
+  </event>
+  <event timestamp="8.2">
+    <cursor>0.50903 0.64485</cursor>
+  </event>
+  <event timestamp="8.3">
+    <cursor>0.38818 0.50084</cursor>
+  </event>
+  <event timestamp="8.4">
+    <cursor>0.33639 0.63541</cursor>
+  </event>
+  <event timestamp="8.5">
+    <cursor>0.55817 0.7629</cursor>
+  </event>
+  <event timestamp="8.6">
+    <cursor>0.7348 0.59055</cursor>
+  </event>
+  <event timestamp="8.7">
+    <cursor>0.58871 0.51972</cursor>
+  </event>
+  <event timestamp="8.8">
+    <cursor>0.31647 0.71332</cursor>
+  </event>
+  <event timestamp="8.9">
+    <cursor>0.41607 0.80303</cursor>
+  </event>
+  <event timestamp="9.0">
+    <cursor>0.56348 0.60944</cursor>
+  </event>
+  <event timestamp="9.1">
+    <cursor>0.52763 0.51736</cursor>
+  </event>
+  <event timestamp="9.2">
+    <cursor>0.33373 0.68971</cursor>
+  </event>
+  <event timestamp="9.3">
+    <cursor>0.43998 0.82192</cursor>
+  </event>
+  <event timestamp="9.4">
+    <cursor>0.68832 0.64957</cursor>
+  </event>
+  <event timestamp="9.5">
+    <cursor>0.53294 0.59763</cursor>
+  </event>
+  <event timestamp="9.6">
+    <cursor>0.25937 0.84789</cursor>
+  </event>
+  <event timestamp="9.7">
+    <cursor>0.43599 0.90692</cursor>
+  </event>
+  <event timestamp="9.8">
+    <cursor>0.65379 0.71332</cursor>
+  </event>
+  <event timestamp="9.9">
+    <cursor>0.46388 0.62833</cursor>
+  </event>
+  <event timestamp="10.0">
+    <cursor>0.31514 0.85498</cursor>
+  </event>
+  <event timestamp="10.1">
+    <cursor>0.45724 0.95177</cursor>
+  </event>
+  <event timestamp="10.2">
+    <cursor>0.67371 0.71332</cursor>
+  </event>
+  <event timestamp="10.3">
+    <cursor>0.42138 0.79595</cursor>
+  </event>
+  <event timestamp="10.4">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="10.5">
+    <cursor>0.75206 0.78887</cursor>
+  </event>
+  <event timestamp="10.6">
+    <cursor>0.55153 0.71332</cursor>
+  </event>
+  <event timestamp="10.7">
+    <cursor>0.08672 0.73221</cursor>
+  </event>
+  <event timestamp="10.8">
+    <cursor>0.10797 0.72749</cursor>
+  </event>
+  <event timestamp="10.9">
+    <cursor>0.34701 0.52445</cursor>
+  </event>
+  <event timestamp="11.0">
+    <cursor>0.3935 0.51264</cursor>
+  </event>
+  <event timestamp="11.1">
+    <cursor>0.53294 0.77943</cursor>
+  </event>
+  <event timestamp="11.2">
+    <cursor>0.3178 0.96358</cursor>
+  </event>
+  <event timestamp="11.3">
+    <cursor>0.28725 0.46542</cursor>
+  </event>
+  <event timestamp="11.5">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="11.6">
+    <cursor>0.56747 0.69915</cursor>
+  </event>
+  <event timestamp="11.7">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="11.8">
+    <cursor>0.72019 0.93761</cursor>
+  </event>
+  <event timestamp="11.9">
+    <cursor>0.61528 0.48195</cursor>
+  </event>
+  <event timestamp="12.0">
+    <cursor>0.79589 0.51028</cursor>
+  </event>
+  <event timestamp="12.1">
+    <cursor>0.42935 0.71332</cursor>
+  </event>
+  <event timestamp="12.2">
+    <cursor>0.54622 0.33557</cursor>
+  </event>
+  <event timestamp="12.3">
+    <cursor>0.65246 0.67791</cursor>
+  </event>
+  <event timestamp="12.4">
+    <cursor>0.43201 0.69915</cursor>
+  </event>
+  <event timestamp="12.5">
+    <cursor>0.75605 0.71096</cursor>
+  </event>
+  <event timestamp="12.6">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="12.7">
+    <cursor>0.65379 0.64013</cursor>
+  </event>
+  <event timestamp="12.8">
+    <cursor>0.80385 0.91636</cursor>
+  </event>
+  <event timestamp="12.9">
+    <cursor>0.59403 0.94941</cursor>
+  </event>
+  <event timestamp="13.0">
+    <cursor>0.71488 0.78651</cursor>
+  </event>
+  <event timestamp="13.1">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="13.2">
+    <cursor>0.43466 0.85498</cursor>
+  </event>
+  <event timestamp="13.3">
+    <cursor>0.60465 0.8172</cursor>
+  </event>
+  <event timestamp="13.4">
+    <cursor>0.43998 0.88095</cursor>
+  </event>
+  <event timestamp="13.5">
+    <cursor>0.59137 0.63305</cursor>
+  </event>
+  <event timestamp="13.6">
+    <cursor>0.59137 0.75582</cursor>
+  </event>
+  <event timestamp="13.7">
+    <cursor>0.40412 0.74165</cursor>
+  </event>
+  <event timestamp="13.8">
+    <cursor>0.60199 0.64957</cursor>
+  </event>
+  <event timestamp="13.9">
+    <cursor>0.43599 0.9258</cursor>
+  </event>
+  <event timestamp="14.0">
+    <cursor>0.4081 0.64249</cursor>
+  </event>
+  <event timestamp="14.1">
+    <cursor>0.63387 0.75582</cursor>
+  </event>
+  <event timestamp="14.2">
+    <cursor>0.52763 0.99191</cursor>
+  </event>
+  <event timestamp="14.3">
+    <cursor>0.72816 0.46778</cursor>
+  </event>
+  <event timestamp="14.4">
+    <cursor>0.68832 0.96122</cursor>
+  </event>
+  <event timestamp="14.5">
+    <cursor>0.57543 0.82664</cursor>
+  </event>
+  <event timestamp="14.6">
+    <cursor>0.76003 0.61652</cursor>
+  </event>
+  <event timestamp="14.7">
+    <cursor>0.73347 0.87858</cursor>
+  </event>
+  <event timestamp="14.8">
+    <cursor>0.5502 0.64249</cursor>
+  </event>
+  <event timestamp="14.9">
+    <cursor>0.74808 0.6</cursor>
+  </event>
+  <event timestamp="15.0">
+    <cursor>0.56747 0.95413</cursor>
+  </event>
+  <event timestamp="15.1">
+    <cursor>0.47185 0.69679</cursor>
+  </event>
+  <event timestamp="15.2">
+    <cursor>0.72284 0.64249</cursor>
+  </event>
+  <event timestamp="15.3">
+    <cursor>0.42935 0.89747</cursor>
+  </event>
+  <event timestamp="15.4">
+    <cursor>0.62723 0.46306</cursor>
+  </event>
+  <event timestamp="15.5">
+    <cursor>0.65246 0.90219</cursor>
+  </event>
+  <event timestamp="15.6">
+    <cursor>0.53427 0.84081</cursor>
+  </event>
+  <event timestamp="15.7">
+    <cursor>0.76534 0.30252</cursor>
+  </event>
+  <event timestamp="15.8">
+    <cursor>0.78659 0.6661</cursor>
+  </event>
+  <event timestamp="15.9">
+    <cursor>0.43201 0.74401</cursor>
+  </event>
+  <event timestamp="16.0">
+    <cursor>0.59403 0.33321</cursor>
+  </event>
+  <event timestamp="16.1">
+    <cursor>0.74542 0.61416</cursor>
+  </event>
+  <event timestamp="16.2">
+    <cursor>0.62324 0.83137</cursor>
+  </event>
+  <event timestamp="16.3">
+    <cursor>0.60731 0.38279</cursor>
+  </event>
+  <event timestamp="16.4">
+    <cursor>0.8344 0.49611</cursor>
+  </event>
+  <event timestamp="16.5">
+    <cursor>0.51435 0.9258</cursor>
+  </event>
+  <event timestamp="16.6">
+    <cursor>0.59668 0.6</cursor>
+  </event>
+  <event timestamp="16.7">
+    <cursor>0.99907 0.42293</cursor>
+  </event>
+  <event timestamp="16.8">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="16.9">
+    <cursor>0.84635 0.40404</cursor>
+  </event>
+  <event timestamp="17.0">
+    <cursor>0.99907 0.52917</cursor>
+  </event>
+  <event timestamp="17.1">
+    <cursor>0.46786 0.80303</cursor>
+  </event>
+  <event timestamp="17.2">
+    <cursor>0.56215 0.45598</cursor>
+  </event>
+  <event timestamp="17.3">
+    <cursor>0.92072 0.70151</cursor>
+  </event>
+  <event timestamp="17.4">
+    <cursor>0.56747 0.80067</cursor>
+  </event>
+  <event timestamp="17.5">
+    <cursor>0.9101 0.30016</cursor>
+  </event>
+  <event timestamp="17.6">
+    <cursor>0.8769 0.70151</cursor>
+  </event>
+  <event timestamp="17.7">
+    <cursor>0.23812 0.95177</cursor>
+  </event>
+  <event timestamp="17.8">
+    <cursor>0.97251 0.33321</cursor>
+  </event>
+  <event timestamp="17.9">
+    <cursor>0.94994 0.74637</cursor>
+  </event>
+  <event timestamp="18.0">
+    <cursor>0.58473 0.914</cursor>
+  </event>
+  <event timestamp="18.1">
+    <cursor>0.75073 0.42293</cursor>
+  </event>
+  <event timestamp="18.2">
+    <cursor>0.83838 0.6661</cursor>
+  </event>
+  <event timestamp="18.3">
+    <cursor>0.61262 0.69915</cursor>
+  </event>
+  <event timestamp="18.4">
+    <cursor>0.69363 0.45834</cursor>
+  </event>
+  <event timestamp="18.5">
+    <cursor>0.73081 0.52208</cursor>
+  </event>
+  <event timestamp="18.6">
+    <cursor>0.63121 0.67082</cursor>
+  </event>
+  <event timestamp="18.7">
+    <cursor>0.61262 0.61416</cursor>
+  </event>
+  <event timestamp="18.8">
+    <cursor>0.61129 0.58111</cursor>
+  </event>
+  <event timestamp="29.3">
+    <cursor>0.61129 0.57875</cursor>
+  </event>
+  <event timestamp="29.4">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="30.1">
+    <cursor>0.42935 0.00504</cursor>
+  </event>
+  <event timestamp="30.2">
+    <cursor>0.38686 0.11601</cursor>
+  </event>
+  <event timestamp="30.3">
+    <cursor>0.36826 0.19392</cursor>
+  </event>
+  <event timestamp="30.4">
+    <cursor>0.36561 0.21752</cursor>
+  </event>
+  <event timestamp="30.5">
+    <cursor>0.36561 0.21989</cursor>
+  </event>
+  <event timestamp="30.6">
+    <cursor>0.36959 0.22697</cursor>
+  </event>
+  <event timestamp="31.1">
+    <cursor>0.36826 0.22697</cursor>
+  </event>
+  <event timestamp="31.2">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="32.6">
+    <cursor>0.26202 0.07587</cursor>
+  </event>
+  <event timestamp="32.7">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="35.1">
+    <cursor>0.90213 0.01449</cursor>
+  </event>
+  <event timestamp="35.2">
+    <cursor>0.93666 0.03337</cursor>
+  </event>
+  <event timestamp="35.3">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="35.8">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="36.6">
+    <cursor>0.91275 0.00504</cursor>
+  </event>
+  <event timestamp="36.7">
+    <cursor>0.8915 0.12781</cursor>
+  </event>
+  <event timestamp="36.8">
+    <cursor>0.89549 0.14434</cursor>
+  </event>
+  <event timestamp="36.9">
+    <cursor>0.90478 0.15614</cursor>
+  </event>
+  <event timestamp="37.0">
+    <cursor>0.93134 0.21516</cursor>
+  </event>
+  <event timestamp="37.1">
+    <cursor>0.93798 0.22225</cursor>
+  </event>
+  <event timestamp="37.2">
+    <cursor>0.94064 0.18683</cursor>
+  </event>
+  <event timestamp="37.3">
+    <cursor>0.934 0.14906</cursor>
+  </event>
+  <event timestamp="37.4">
+    <cursor>0.93002 0.13253</cursor>
+  </event>
+  <event timestamp="38.1">
+    <cursor>0.92603 0.12309</cursor>
+  </event>
+  <event timestamp="38.2">
+    <cursor>0.92603 0.11601</cursor>
+  </event>
+  <event timestamp="38.4">
+    <cursor>0.92603 0.11364</cursor>
+  </event>
+  <event timestamp="38.5">
+    <cursor>0.93002 0.09948</cursor>
+  </event>
+  <event timestamp="48.9">
+    <cursor>0.93134 0.09712</cursor>
+  </event>
+  <event timestamp="49.0">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="52.8">
+    <cursor>0.24609 0.54333</cursor>
+  </event>
+  <event timestamp="52.9">
+    <cursor>0.40014 0.51972</cursor>
+  </event>
+  <event timestamp="53.0">
+    <cursor>0.44794 0.49611</cursor>
+  </event>
+  <event timestamp="53.1">
+    <cursor>0.47849 0.4064</cursor>
+  </event>
+  <event timestamp="53.2">
+    <cursor>0.62856 0.1042</cursor>
+  </event>
+  <event timestamp="53.3">
+    <cursor>0.64848 0.05226</cursor>
+  </event>
+  <event timestamp="53.4">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+  <event timestamp="55.7">
+    <cursor>-1.0 -1.0</cursor>
+  </event>
+</recording>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<recording>
+  <id>7412f14352b9bd36c06622464fb324e2889f7046-1588904809051</id>
+  <state>published</state>
+  <published>true</published>
+  <start_time>1588904809051</start_time>
+  <end_time>1588905514063</end_time>
+  <participants>3</participants>
+  <meeting id="7412f14352b9bd36c06622464fb324e2889f7046-1588904809051" externalId="39901_1ea90d35-eb3f-675a-8e6c-42010a8c000a" name="KE0000269_V&#x1B0;&#x1A1;ng Minh H&#x1EB1;ng_Speak A - Unit 1 (2)" breakout="false"/>
+  <meta>
+    <isBreakout>false</isBreakout>
+    <meetingId>39901_1ea90d35-eb3f-675a-8e6c-42010a8c000a</meetingId>
+    <meetingName>KE0000269_V&#x1B0;&#x1A1;ng Minh H&#x1EB1;ng_Speak A - Unit 1 (2)</meetingName>
+  </meta>
+  <playback>
+    <format>presentation</format>
+    <link>https://bbb.kynaforkids.com/playback/presentation/2.0/playback.html?meetingId=7412f14352b9bd36c06622464fb324e2889f7046-1588904809051</link>
+    <processing_time>147606</processing_time>
+    <duration>663318</duration>
+    <extensions>
+      <preview>
+        <images>
+          <image width="176" height="136" alt="invoice_code collection_payme... date user_name email phone_number package_name teacher_name payment_dashboa... different_n...">https://bbb.kynaforkids.com/presentation/7412f14352b9bd36c06622464fb324e2889f7046-1588904809051/presentation/cdd56be92e240d59df4e53e6ecb88995c4b7e812-1588904809096/thumbnails/thumb-1.png</image>
+        </images>
+      </preview>
+    </extensions>
+    <size>1020882</size>
+  </playback>
+  <raw_size>6160175</raw_size>
+</recording>

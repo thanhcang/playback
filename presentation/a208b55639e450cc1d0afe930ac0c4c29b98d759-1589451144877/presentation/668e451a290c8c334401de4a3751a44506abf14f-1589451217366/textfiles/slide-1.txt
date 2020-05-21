@@ -1,0 +1,71 @@
+invoice_code collection_payme... date user_name email phone_number package_name teacher_name payment_dashboa... different_n...
+KYNA-ZVV3ZPAS 1499000 23-Mar-20 Chị Linh linhntthup@gmail.co
+m
+977663687 Học tiếng Anh
+qua truyện cùng
+ứng dụng Farfaria
+Intuary Inc. 1499000 0
+KYNA-ZVSZW8ZB 217557 03-Sep-20 Trần Thị Ngọc Lợi ngocloiaiakb@gmail.
+com
+985947047 Dạy con siêu trí
+nhớ cùng kỷ lục
+gia
+Nguyễn Phùng
+Phong
+217557 0
+KYNA-ZVSZW8ZB 21321 03-Sep-20 Trần Thị Ngọc Lợi ngocloiaiakb@gmail.
+com
+985947047 3 Mật mã vàng để
+học giỏi
+Trung tâm huấn
+luyện kỹ năng
+21321 0
+KYNA-ZVSZW8ZB 160122 03-Sep-20 Trần Thị Ngọc Lợi ngocloiaiakb@gmail.
+com
+985947047 Ghi chép thông
+minh, thuộc bài
+tại lớp
+Trung tâm huấn
+luyện kỹ năng
+160122 0
+KYNA-ZVFA5DVZ 193847 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Dạy con siêu trí
+nhớ cùng kỷ lục
+gia
+Nguyễn Phùng
+Phong
+173090 20757
+KYNA-ZVFA5DVZ 116308 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Cân bằng việc
+học và chơi cho
+con
+SUNNYCARE 103854 12454
+KYNA-ZVFA5DVZ 155078 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Kyna Soroban 3 null 108311.08 46767
+KYNA-ZVFA5DVZ 155078 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Kyna Soroban 1 null 108311.08 46767
+KYNA-ZVFA5DVZ 38692 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Movers null 86475.57 -47784
+KYNA-ZVFA5DVZ 38692 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Pre-Starters null 86475.57 -47784
+KYNA-ZVFA5DVZ 38692 02-Mar-20 huynh thivtam tamtamvs@yahoo.co
+m.vn
+914743065 Starters null 86475.57 -47784
+...
+1 - 1140 / 1140 < >
+Collection payment
+114,550,001
+Payment dashboard
+116,295,000.15
+Different number
+-297,002
+Invoice code ▼
+Username ▼
+Email ▼
+ĐỐI SOÁT DOANH THU BANK
